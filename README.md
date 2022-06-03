@@ -1,6 +1,3 @@
-# test-web
-
-<!doctype html>
 <html> 
  <head></head>
  <body> 
